@@ -1,1 +1,0 @@
-JavaScript is a high-level, interpreted programming language primarily used for front-end web development. It enables developers to create dynamic, interactive web pages and web applications.
